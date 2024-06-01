@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "Bigspring Light Astro",
-    "base_url": "coba.paulus-lestyo.my.id",
+    "base_url": "https://coba.paulus-lestyo.my.id",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
